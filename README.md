@@ -1,6 +1,6 @@
-# Basaji Fast Food Sales Analysis
+# Balaji Fast Food Sales Analysis
 
-This repository contains an analysis of sales data for Basaji Fast Food restaurant. The analysis includes statistical calculations, visualizations such as pie charts, histograms, bar charts, and line plots, as well as insights into sales trends based on different parameters like item prices, quantities, transaction types, and months.
+This repository contains an analysis of sales data for Balaji Fast Food restaurant. The analysis includes statistical calculations, visualizations such as pie charts, histograms, bar charts, and line plots, as well as insights into sales trends based on different parameters like item prices, quantities, transaction types, and months.
 
 ## Analysis Overview
 
@@ -16,12 +16,6 @@ This repository contains an analysis of sales data for Basaji Fast Food restaura
 ## Conclusion
 
 Based on the analysis, there is a potential 10% increase in sales revenue for the restaurant within a month. The insights gained from the analysis can help in formulating strategic sales strategies for the future.
-
-## Data Export
-
-The cleaned data has been saved in CSV and Excel formats for further analysis. You can access the cleaned data files here:
-- [Basaji Fast Food Sales - Clean.csv](Basaji Fast Food Sales - Clean.csv)
-- [Basaji Fast Food Sales - Clean.xlsx](Basaji Fast Food Sales - Clean.xlsx)
 
 For a more detailed analysis, you can view the data on:
 - [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1PYUXNpAIepVZ-HIn97dAwBatW9jyr2hgquzuQhQEAoU/edit?usp=sharing)
